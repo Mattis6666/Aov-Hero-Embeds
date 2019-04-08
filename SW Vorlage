@@ -1,0 +1,33 @@
+.embed {
+ "title": "Joker",
+  "url": "https://summonerswar.fandom.com/wiki/Joker",
+"thumbnail": "https://imgur.com/i3WwtgX.png", 
+ "color": 53380,
+ "fields": [
+   {
+     "name": "{swfire} Fire",
+     "value": "__**Runes:**__ Violent or Fatal + Focus or Will\nATK/SPD ATK ATK\n**__Used in:__** PVP, Toah\n**__Tier:__** B",
+     "inline": false
+   },
+   {
+     "name": "{swwind} Wind",
+     "value": "__**Runes:**__ Rage or Fatal + Blade or Will\nATK CD ATK\n**__Used in:__** PVP, Speed PVE teams\n**__Tier:__** SSS",
+     "inline": false
+   },
+   {
+     "name": "{swwater} Water",
+     "value": "__**Runes:**__ Despair or Violent + Blade or Will\nSPD CD/HP ATK/HP\n**__Used in:__** PVP\n**__Tier:__** F",
+     "inline": false
+   },
+   {
+     "name": "{swlight} Light",
+     "value": "__**Runes:**__ Despair + Focus\nSPD HP HP\n**__Used in:__** PVP\n**__Tier:__** A-",
+     "inline": false
+   },
+   {
+     "name": "{swdark} Dark",
+     "value": "__**Runes:**__ Violent or Despair + Focus or Blade\nSPD HP/ATK HP/ATK\n**__Used in:__** PVP\n**__Tier:__** A",
+     "inline": false
+   }
+ ]
+}
